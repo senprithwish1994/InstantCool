@@ -7,8 +7,8 @@
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "senprithwish1994"
-#define AIO_KEY         "aio_BRLh96maxMKta2iNdpcOPn66sz2p"
+#define AIO_USERNAME    "username"
+#define AIO_KEY         "aio_key"
 #define led 23
 
 
