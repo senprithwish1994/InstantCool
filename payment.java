@@ -50,8 +50,8 @@ public class payment extends AppCompatActivity {
 
 
         try {
-            options.setUserName("senprithwish1994");
-            options.setPassword("aio_BRLh96maxMKta2iNdpcOPn66sz2p".toCharArray());
+            options.setUserName("username");
+            options.setPassword("aio_Key".toCharArray());
 
             IMqttToken token = client.connect(options);
             token.setActionCallback(new IMqttActionListener() {
